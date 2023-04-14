@@ -313,10 +313,19 @@ footer {
 
 /* Media query */
 
-@media screen and ( max-width: 767px) {
+@media screen and ( max-width: 768px) {
     .navbar-brand {
         display: none;
     }
+
+    .overlay i {
+        font-size: 40px;
+    }
+
+    .overlay {
+        opacity: 1;
+    }
+
     .proyecto img {
         opacity: 0.2;
     }
