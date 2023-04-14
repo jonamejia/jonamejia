@@ -201,10 +201,6 @@ h1{
     opacity: 1;
 }
 
-
-
-
-
 /* Contacto */
 
 .contacto .container {
@@ -333,6 +329,12 @@ footer {
     .proyecto .overlay {
         opacity: 1;
     }
+
+    .overlay i {
+        color: black;
+        font-size: 60px;
+        margin: 10px;
+    }
 }
 
 @media screen and (min-width: 700px){
@@ -356,6 +358,12 @@ footer {
 
     .proyecto .overlay {
         opacity: 1;
+    }
+
+    .overlay i {
+        color: black;
+        font-size: 60px;
+        margin: 10px;
     }
 }
 
