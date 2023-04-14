@@ -317,6 +317,9 @@ footer {
     .navbar-brand {
         display: none;
     }
+    .proyecto img {
+        opacity: 0.2;
+    }
 }
 
 @media screen and (min-width: 700px){
